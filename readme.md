@@ -8,12 +8,12 @@ The bus mapping is [here](./Bus2021A.txt), but also printed on the backplane boa
 
 ## Bus 2021A backplane - 5 slot
 
-![Bus 2021A Rev0 PCB](./images/Bus2021A_5Slot_PCB.png)
-
-All kicad files, gerber files, etc. are [in the repo](./Bus2021A_5Slot). The schematic is below.
+All kicad files, gerber files, etc. are [in the repo](./Bus2021A_5Slot). 
 
 The backplane features spots for 5 female pin headers, a DJ jack for 5v power and a power jumper (which can be broken out to a switch), a power LED, and a reset switch which is tied into the bus. 
 
-A future revision might include blinkenlights on the backplane, but for now there will be space for those to be easily put on one of the protoboards.
+A future revision might include blinkenlights on the backplane, but for now there will be space for those to be easily placed on one of the protoboards.
 
-![Bus 2021A backplane - 5 slot schematic](./images/Bus2021A_Backplane_Rev0_Schematic.png)
+| PCB | Schematic |
+| --- | --- |
+| ![Bus 2021A Rev0 PCB](./images/Bus2021A_5Slot_PCB.png) | ![Bus 2021A backplane - 5 slot schematic](./images/Bus2021A_Backplane_Rev0_Schematic.png) |
