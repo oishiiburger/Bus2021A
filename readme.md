@@ -4,6 +4,8 @@ This is a quick n' dirty bus design for a hobbyist computer system based around 
 
 The purpose of the bus is to allow for the use of a custom backplane so that several small boards to be easily connected.
 
+[Bus 2021A Rev0 PCB](./images/Bus2021A_5Slot_PCB.png)
+
 The bus layout is as follows:
 
 ```
