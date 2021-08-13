@@ -49,3 +49,7 @@ PIN     LABEL   DEF
 39      USER3   |
 40      USER4   |
 ```
+
+All kicad files, gerber files, etc. are in the repo. The schematic is below.
+
+![Bus 2021A backplane - 5 slot schematic](./images/Bus2021A_Backplane_Rev0_Schematic.png)
