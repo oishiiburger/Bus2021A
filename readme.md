@@ -33,3 +33,7 @@ Rows 7-30   :   Project space (between power rails)
 The purpose of the vertical connection between rows 4 and 5 is for easy installation of blinkenlights on the board using individual LEDs and resistors or LED bar graphs and resistor arrays. These rows can also be used for arbitrary circut connections without having to solder and resolder multiple wires.
 
 Gerbers / drill files are [here](./Bus2021A_Protoboard/rev0_gerber).
+
+| Protoboard front | Protoboard rear |
+| --- | --- |
+| ![Protoboard front](./images/Bus2021AProtoboard_Front.png) | ![Protoboard rear](./images/Bus2021AProtoboard_Rear.png) |
