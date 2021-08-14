@@ -37,3 +37,7 @@ Gerbers / drill files are [here](./Bus2021A_Protoboard/rev0_gerber).
 | Protoboard front | Protoboard rear |
 | --- | --- |
 | ![Protoboard front](./images/Bus2021AProtoboard_Front.png) | ![Protoboard rear](./images/Bus2021AProtoboard_Rear.png) |
+
+## Symbols / footprints
+
+A symbol for the bus and a footprint for the headers on the protoboard are in the [library folder](./Bus2021A_library).
