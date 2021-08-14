@@ -20,7 +20,7 @@ A future revision might include blinkenlights on the backplane, but for now ther
 
 ## Bus 2021A Protoboard
 
-The protoboard connects with the backplane using a 90-degree pin header. It is designed as an easy and straightforward platform to interface with the bus and features a total project grid of 30x40 (1200 solder points). It has power rails vertically on either side with ground also extending horizontally, and the bus overall extends into the first three rows from the bottom (effectively a stripboard), all to keep distances shorter for wiring. The project grid not counting the rails or bus extension is 912 solder points. The board is labeled front and back on both axes.
+The protoboard connects with the backplane using a 90-degree pin header. It is designed as an easy and straightforward platform to interface with the bus and features a total project grid of 30x40 (1200 solder points). It has power rails vertically on either side with ground also horizontal on row 6, and the bus overall extends into the first three rows from the bottom (effectively a stripboard), all to keep distances shorter for wiring. The project grid not counting the rails or bus extension is 912 solder points. The board is labeled front and back on both axes.
 
 The overall layout is:
 
