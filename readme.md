@@ -17,3 +17,19 @@ A future revision might include blinkenlights on the backplane, but for now ther
 | PCB | Schematic |
 | --- | --- |
 | ![Bus 2021A Rev0 PCB](./images/Bus2021A_5Slot_PCB.png) | ![Bus 2021A backplane - 5 slot schematic](./images/Bus2021A_Backplane_Rev0_Schematic.png) |
+
+## Bus 2021A Protoboard
+
+The protoboard connects with the backplane using a 90-degree pin header. It is designed as an easy and straightforward platform to interface with the bus and features a total project grid of 30x40 (1200 solder points). It has power rails vertically on either side with ground also extending horizontally, and the bus overall extends into the first three rows from the bottom (effectively a stripboard), all to keep distances shorter for wiring. The project grid not counting the rails or bus extension is 912 solder points. The board is labeled front and back on both axes.
+
+The overall layout is:
+
+```
+Rows 1-3    :   Bus extension
+Rows 4-5    :   Connected vertically
+Rows 7-30   :   Project space (between power rails)
+```
+
+The purpose of the vertical connection between rows 4 and 5 is for easy installation of blinkenlights on the board using individual LEDs and resistors or LED bar graphs and resistor arrays. These rows can also be used for arbitrary circut connections without having to solder and resolder multiple wires.
+
+Gerbers / drill files are [here](./Bus2021A_Protoboard/rev0_gerber).
